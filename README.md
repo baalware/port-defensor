@@ -22,7 +22,7 @@ Certifique-se de que os arquivos programas_perigosos.txt e portas_perigosas.txt 
 
 Execute o script no prompt de comando do Windows com privilégios de administrador:
 ````
-python nome_do_script.py
+python port defensor.py
 ````
 O script exibirá uma lista de programas com conexões de rede estabelecidas. Cada conexão será numerada e exibirá as seguintes informações:
 * Programa: nome do programa associado à conexão.
