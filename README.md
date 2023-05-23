@@ -1,4 +1,4 @@
-
+video : https://youtu.be/Gvu8omlebcA
 
 ## Script de Gerenciamento de Conexões de Rede
 Este script em Python permite visualizar e interromper conexões de rede estabelecidas por programas em execução no Windows. Ele utiliza a biblioteca psutil para obter informações sobre as conexões de rede e os processos associados.
