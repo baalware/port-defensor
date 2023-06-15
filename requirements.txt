@@ -1,4 +1,2 @@
+pystyle
 psutil
-os
-time
-webbrowser
